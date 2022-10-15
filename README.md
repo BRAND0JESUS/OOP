@@ -1,2 +1,2 @@
 # OOP
-Some information and exercises of Object Oriented and Programming - OOP
+Some information and exercises of Object Oriented Programming - OOP
