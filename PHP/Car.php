@@ -2,10 +2,10 @@
 require_once 'Account.php';
 
 class Car {
-    public $id; //= integer;
-    public $license; //= string;
-    public $driver; //= string;
-    public $passenger; //= string;
+    public $id integer;
+    public $license string;
+    public $driver string;
+    public $passenger string;
 
     public function __construct($license, Account $driver) {
         $this->license = $license;
